@@ -1,4 +1,4 @@
-Simulador de Cajero Automático en C++
+#Simulador de Cajero Automático en C++
 Descripción
 Este proyecto es el resultado de mi primer acercamiento a la programación durante mi curso de Metodología de la Programación 1 en la universidad. Desarrollado en C++, este simulador de cajero automático presenta una implementación práctica de los conceptos fundamentales que aprendí a lo largo del curso.
 
